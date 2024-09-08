@@ -18,7 +18,8 @@
     "node-fetch": "^3.3.2",
     "nodemailer": "^6.9.15",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "saas-website-dark-landing-page": "file:"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
